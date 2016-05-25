@@ -1,0 +1,15 @@
+D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.exe
+D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.pdb
+D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\bin\Debug\TenisOyunu.exe
+D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\bin\Debug\TenisOyunu.pdb
+D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\obj\Debug\ResolveAssemblyReference.cache
+D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.Form1.resources
+D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.csproj.GenerateResource.Cache
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.exe
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.pdb
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\TenisOyunu\bin\Debug\TenisOyunu.exe
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\TenisOyunu\bin\Debug\TenisOyunu.pdb
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.csprojResolveAssemblyReference.cache
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.Form1.resources
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.csproj.GenerateResource.Cache
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\TenisOyunu\obj\Debug\TenisOyunu.Properties.Resources.resources

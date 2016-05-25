@@ -1,0 +1,9 @@
+C:\Documents and Settings\talatfirlar\Desktop\228 Adet CSharp Örnek Programı\TenisOyunu\TenisOyunu\bin\Debug\TenisOyunu.exe
+C:\Documents and Settings\talatfirlar\Desktop\228 Adet CSharp Örnek Programı\TenisOyunu\TenisOyunu\bin\Debug\TenisOyunu.pdb
+C:\Documents and Settings\talatfirlar\Desktop\228 Adet CSharp Örnek Programı\TenisOyunu\TenisOyunu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\talatfirlar\Desktop\228 Adet CSharp Örnek Programı\TenisOyunu\TenisOyunu\obj\Debug\TenisOyunu.Form1.resources
+C:\Documents and Settings\talatfirlar\Desktop\228 Adet CSharp Örnek Programı\TenisOyunu\TenisOyunu\obj\Debug\TenisOyunu.csproj.GenerateResource.Cache
+C:\Documents and Settings\talatfirlar\Desktop\228 Adet CSharp Örnek Programı\TenisOyunu\TenisOyunu\obj\Debug\TenisOyunu.exe
+C:\Documents and Settings\talatfirlar\Desktop\228 Adet CSharp Örnek Programı\TenisOyunu\TenisOyunu\obj\Debug\TenisOyunu.pdb
+E:\C#1dönem\ue\6.hafta\TenisOyunu\obj\Debug\TenisOyunu.exe
+E:\C#1dönem\ue\6.hafta\TenisOyunu\obj\Debug\TenisOyunu.pdb

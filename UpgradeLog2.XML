@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TenisOyunu">
+</Property><Property Name="Solution File" Value="D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\TenisOyunu.sln">
+</Property><Property Name="User Options File" Value="D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\TenisOyunu.suo">
+</Property><Property Name="Date" Value="13 Mart 2015 Cuma">
+</Property><Property Name="Time" Value="10:06">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TenisOyunu.sln" Description="File successfully backed up as D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\Backup1\TenisOyunu.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TenisOyunu.suo" Description="File successfully backed up as D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\Backup1\TenisOyunu.suo">
+</Event><Event ErrorLevel="0" Project="TenisOyunu" Source="TenisOyunu.csproj" Description="Project file successfully backed up as D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\Backup1\TenisOyunu.csproj">
+</Event><Event ErrorLevel="0" Project="TenisOyunu" Source="TenisOyunu.csproj.user" Description="Project user file successfully backed up as D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\Backup1\TenisOyunu.csproj.user">
+</Event><Event ErrorLevel="0" Project="TenisOyunu" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TenisOyunu" Source="Form1.cs" Description="File successfully backed up as D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\Backup1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TenisOyunu" Source="App.ico" Description="File successfully backed up as D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\Backup1\App.ico">
+</Event><Event ErrorLevel="0" Project="TenisOyunu" Source="Form1.resx" Description="File successfully backed up as D:\1-C#(1+2)\C#1(ilkdönem)\2-5.hafta\TenisOyunu\Backup1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TenisOyunu" Source="TenisOyunu.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TenisOyunu" Source="TenisOyunu.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TenisOyunu.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TenisOyunu.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TenisOyunu" Source="TenisOyunu.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

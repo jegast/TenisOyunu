@@ -1,0 +1,11 @@
+Bu örnek Visual C# .net Baþlangýç Rehberi 
+kitabýnda anlatýlan örnek uygulamalardan biridir..
+
+csproj isimli dosyayý Visual Studio ile açarak örneði 
+inceleyebilirsiniz.
+
+Örneðin çalýþmasý kitap içerisinde anlatýlmýþtýr.
+---------------------------------------------------------------------------
+Ýhsan KARAGÜLLE
+Türkmen Kitabevi
+---------------------------------------------------------------------------
